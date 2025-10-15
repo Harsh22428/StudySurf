@@ -6,9 +6,14 @@ An innovative learning application that transforms educational videos into perso
 
 ---
 
+## DEMO VIDEO 
+
+https://github.com/user-attachments/assets/ecbf0671-e31e-436f-aac8-2441b8009bb6
+
+
 ## 🎯 What is StudySurf?
 
-StudySurf harnesses **Google Gemini 2.5** to convert any educational video into 6 distinct, personalized learning formats:
+StudySurf is an AI-based interactive learning platform that harnesses **LLMs** to convert any educational video into 6 distinct, personalized learning formats:
 
 1. **Analogy-Based Explanations** - Relate concepts to your field of study
 2. **Code/Equation Cheatsheets** - Quick reference guides
@@ -220,35 +225,4 @@ We welcome contributions! To get started:
 - Add tests for new features
 - Update documentation as needed
 
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 🙋 Support & Questions
-
-- **Issues:** Use GitHub Issues for bug reports
-- **Discussions:** Use GitHub Discussions for questions and feature requests
-- **Email:** Reach out to the team through the repository
-
----
-
-## 🌟 Inspiration & Mission
-
-**"Ut Prosim: To Serve"** - Our mission is to democratize education by breaking down barriers for students with diverse learning needs. We believe education should be personalized, accessible, and effective for everyone.
-
----
-
-## 📖 Learn More
-
-- [Google Gemini API Documentation](https://ai.google.dev/)
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [ElevenLabs Documentation](https://elevenlabs.io/docs)
-- [Firestore Documentation](https://firebase.google.com/docs/firestore)
-
----
-
-**Happy Learning! 🚀**
+**Happy Hacking! 🚀**
