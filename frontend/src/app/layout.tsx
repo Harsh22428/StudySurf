@@ -16,7 +16,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Seekho - AI-Powered Learning Platform",
+  title: "StudySurf - AI-Powered Learning Platform",
   description: "Transform your learning experience with AI-powered study tools designed to maximize your potential. Built for VTHacks 2025.",
 };
 
