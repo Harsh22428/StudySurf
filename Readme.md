@@ -1,6 +1,6 @@
 # StudySurf 🏄‍♂️
 
-> AI-Powered Personalized Learning Platform | Hack O'Gravity Hackathon Project
+> AI-Powered Personalized Learning Platform |
 
 An innovative learning application that transforms educational videos into personalized, multi-format learning experiences using advanced AI. StudySurf adapts content to individual learning styles, accessibility needs, and cultural contexts—making education truly inclusive.
 
